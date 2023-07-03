@@ -13,8 +13,9 @@ const Hero = (props) => (
     <Section row nopadding>
       <LeftSection>
         <SectionTitle main center>
-          Welcome To <br />
-          My Personal Portfolio
+          Hi <br />
+  My name is Naman Rajput
+          
         </SectionTitle>
         <SectionText>
           Meticulous frontend web developer work in react js to deliver
